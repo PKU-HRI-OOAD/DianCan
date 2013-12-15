@@ -17,5 +17,4 @@ step4:
 
 PS:
 	1、请各位不要随便执行revert操作，一般多个提交（即commit）后再进行同步（即sync）
-	2、github for windows 只支持utf-8的中文编码格式，请大家编辑文档的时候注意一下
-先克隆
+	2、github for windows 只支持utf-8的中文编码格式，请大家编辑文档的时候注意一下先克隆
