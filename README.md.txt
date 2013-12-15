@@ -8,7 +8,7 @@ step1:
 step2:
 	将自己的内容放入本地目录的文件夹中，修改的时候就在这个文件夹内修改
 step3:
-	提交（即commit），点击右上角publish,写好commit说明
+	提交（即commit），（第一次是publish,以后直接在左上方进行commit）,并写好commit说明
 step4:    
 	同步（即sync）,点击右上角sync按钮，即可提交到github服务器，大家只要在客户端执行一个sync操作就可以看到更新的内容了
 	
