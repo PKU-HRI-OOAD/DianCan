@@ -16,6 +16,10 @@ step4:
 
 PS:
 	1、请各位不要随便执行revert操作，一般多个提交（即commit）后再进行同步（即sync）
+<<<<<<< HEAD
 	2、github for windows 只支持utf-8的中文编码格式，请大家编辑文档的时候注意一下
 测试一下 
 roll back test
+=======
+	2、github for windows 只支持utf-8的中文编码格式，请大家编辑文档的时候注意一下
+>>>>>>> parent of 1396009... Revert "ca"
