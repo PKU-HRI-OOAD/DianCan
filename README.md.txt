@@ -19,5 +19,3 @@ PS:
 	2、github for windows 只支持utf-8的中文编码格式，请大家编辑文档的时候注意一下
 测试一下 
 roll back test
-this is for the roll back test
-
